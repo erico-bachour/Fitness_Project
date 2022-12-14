@@ -1,4 +1,4 @@
-# Fitness_Project
+# Fitness_Project (em construção)
 Projeto em Python, criado para documentar meu processo de perda de peso.
 
 Desde outubro de 2021, entrei em uma jornada de melhoria de saúde. É um processo de melhoria contínua e por causa disso, alguns equipamentos e procedimentos foram adicionados durante o mesmo e enquanto esse script é desenvolvido ele ainda sofrerá incrementos, seja por novos dispositivos de controle ou aplicativos.
