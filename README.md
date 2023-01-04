@@ -16,6 +16,8 @@ No final de junho de 2022, comecei a usar o aplicativo My Fitness Pal, com o obj
 
 Para maior controle das minhas atividades, em agosto de 2022 adquiri uma fitness band chamada Xiaomi Smart Band 7 Pro. Assim, consigo medir com maior precisão a quantidade de passos dados e calorias gastas em repouso e durante meus exercícios.
 
+Em Janeiro de 2023, uma nova balança de bioimpedância foi adquirida, a Xiaomi Body Composition 2. Os tipo de dados fornecidos por ela não diferem do modelo utilizado anteriormente, apesar de serem um pouco mais precisos.
+
 Todos esses equipamentos e aplicativos fornecem dados importantes para o controle dos resultados, porém eles ficam restritos às fontes. Felizmente, a Apple possui um aplicativo chamado Health que se comunica com todos esses outros e agrupa esses dados para que possam ser visualizados. A partir dele, exportamos os dados consolidados para o Google Colab.
 
 No primeiro notebook, o objetivo é importar a base de dados do app Health, visualizá-la e tratá-la de forma adequada para uma futura análise. No segundo notebok, passaremos para a parte analítica, ainda com algumas adições ao dataset, mas com a elaboração de gráficos e uma regressão linear para testarmos a hipótese "Déficit calórico significa perda de peso ou de gordura?"
